@@ -1,5 +1,5 @@
 import React from "react";
-
+//creating a function of color-list
 function ColorList() {
   const colors = [
     "firebrick",
